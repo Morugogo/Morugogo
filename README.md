@@ -1,182 +1,167 @@
 <div align="center">
 
-# 👋 Hi, I'm **Morugogo!**
+<!-- BANNER -->
 
-### 💻 Developer · IT · Networking · Problem Solver
+<img src="./assets/banner.svg" width="100%" alt="Morugogo banner">
 
-<p>
-  <a href="https://github.com/Morugogo">
-    <img src="https://img.shields.io/badge/GitHub-Morugogo-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-</p>
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Morugogo&label=Profile%20Views&color=6f42c1&style=flat-square">
-</p>
+<!-- SOCIAL BUTTONS -->
+
+<a href="https://github.com/Morugogo">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
-> **IT enthusiast who enjoys building, learning and solving technical problems.**
+# 👋 Hey there! I'm **Morugogo**
 
-* 💻 Interested in **IT, software and networking**
-* 🐍 Currently learning **Python**
-* 🎓 Currently studying **CS50x**
-* 🌐 Interested in **Web Development**
-* 🌐 Learning more about **Computer Science**
-* 🐧 Comfortable working with **Linux, Windows and macOS**
-* 🔧 Interested in troubleshooting and technical support
-* 📡 Exploring **networking and Cisco technologies**
-* 🚀 Always learning something new
+### 💻 Developer · IT · Networking
+
+I'm an IT enthusiast interested in software development, networking and technology.
+
+Currently I'm focused on improving my programming skills and building real-world projects while studying Computer Science.
+
+### 🧠 What I'm doing
+
+* 🐍 Learning **Python**
+* 🎓 Studying **CS50x**
+* 🌐 Exploring **Web Development**
+* 📡 Learning **Cisco Networking**
+* 🐧 Working with **Linux**
+* 🔧 Building and experimenting with technology
+* 🚀 Constantly learning something new
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/Morugogo.png" width="220" alt="Morugogo">
+
+<br><br>
+
+### ⚡ Tech Focus
+
+`Python`
+
+`Networking`
+
+`Linux`
+
+`Web Development`
+
+`Git`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+<div align="center">
 
-### 💻 Programming & Web
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" height="50">
-</p>
+</div>
 
-### 🔧 Tools & Technologies
+## 🛠️ Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,firebase" height="50">
-</p>
+<div align="center">
 
-### 🌐 Networking
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,docker,firebase" height="55">
 
-<p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white">
-</p>
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-| 📖 Technology           | 🎯 Focus                      |
-| ----------------------- | ----------------------------- |
-| 🐍 **Python**           | Programming & automation      |
-| 🎓 **CS50x**            | Computer Science fundamentals |
-| 🌐 **Web Development**  | HTML, CSS & JavaScript        |
-| 📡 **Cisco Networking** | Networking fundamentals       |
-| 🐧 **Linux**            | Systems & command line        |
-| 🔧 **Git & GitHub**     | Version control & development |
+<table align="center">
+<tr>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🎓<br><b>CS50x</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">📡<br><b>Cisco</b></td>
+<td align="center">🐧<br><b>Linux</b></td>
+</tr>
+</table>
 
 ---
 
-## 🚀 My Projects
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+### 🚀 Building things. Learning constantly.
+
+</div>
+
+---
+
+## 💻 About My Work
+
+I enjoy working with technology from both the **software and infrastructure side**.
+
+My interests include:
+
+* Software development
+* IT support and troubleshooting
+* Computer networking
+* Linux systems
+* Automation
+* Web technologies
+* Developer tools
+
+I'm currently using GitHub as a place to document my learning, experiments and projects.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-### 💻 Explore my repositories
-
 <a href="https://github.com/Morugogo?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-6f42c1?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Morugogo">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 <br>
 
-> I'm currently building my portfolio and adding new projects as I learn.
->
-> More projects will appear here as I continue developing.
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<a href="https://github.com/Morugogo">
-  <img src="https://img.shields.io/badge/Follow-Morugogo-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### Thanks for visiting my profile! 👋
 
-<a href="https://github.com/Morugogo?tab=stars">
-  <img src="https://img.shields.io/badge/⭐_My_Stars-6f42c1?style=for-the-badge">
-</a>
-
-<a href="https://github.com/Morugogo?tab=repositories">
-  <img src="https://img.shields.io/badge/📁_Repositories-238636?style=for-the-badge">
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/Morugogo">
-  <img src="https://streak-stats.demolab.com/?user=Morugogo&theme=tokyonight&hide_border=true&background=0D1117&ring=6F42C1&fire=FF6B35&currStreakLabel=6F42C1" alt="Morugogo's GitHub Streak">
-</a>
-
-</div>
-
----
-
-## 🧠 What I'm Interested In
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   💻 Software Development                            │
-│   🌐 Web Development                                 │
-│   📡 Computer Networking                             │
-│   🐍 Python & Automation                             │
-│   🐧 Linux & Systems                                 │
-│   🔐 Technology & Security                           │
-│   🤖 AI & Developer Tools                            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎯 My Goals
-
-* [ ] Complete **CS50x**
-* [ ] Improve my Python skills
-* [ ] Build more real-world projects
-* [ ] Expand my networking knowledge
-* [ ] Build a stronger developer portfolio
-* [ ] Contribute to open-source projects
-* [ ] Keep learning and improving 🚀
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Morugogo">
-  <img src="https://img.shields.io/badge/GitHub-Morugogo-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-<br>
-
-```text
-Code • Learn • Build • Repeat
-```
-
-**Made with 💙 by Morugogo**
+<sub>Made with curiosity, code and a lot of ☕</sub>
 
 </div>
