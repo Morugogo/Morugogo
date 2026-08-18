@@ -1,267 +1,50 @@
-<div align="center">
+![👋 Hi, my name is Morugogo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<img src="./assets/catty.jpeg" width="100%" alt="Morugogo Banner">
+![Profile views](https://komarev.com/ghpvc/?username=Morugogo&label=Profile%20views&color=0e75b6&style=flat)
 
-<br><br>
-
-# 👋 Hi, I'm **Morugogo!**
-
-### 💻 Developer · IT · Networking
-
-**Building things, solving problems and constantly learning.**
-
-<br>
-
-<a href="https://github.com/Morugogo">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:">
-<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Morugogo
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<br>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
----
+ **<h3 align="left">I'm an artist who loves technology, music, and learning new things.
+I enjoy exploring different areas, creating things, and discovering something new whenever I can.
 
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### Hey there! 👋
-
-I'm **Morugogo**, an IT enthusiast interested in software development, networking and technology.
-
+I'm interested in technology and also have my own music account, combining my creative side with my curiosity for tech.
 I enjoy understanding how things work, solving technical problems and experimenting with new tools.
 
-Currently I'm focusing on improving my programming and computer science fundamentals while building projects and expanding my technical knowledge.
+Currently I'm focusing on improving my programming and computer science fundamentals while building projects and expanding my technical knowledge.</h3>**
 
-### 💡 Currently
+**<h3 align="left">Rapid Fire</h3>**
 
-* 🐍 Learning **Python**
-* 🎓 Studying **CS50x**
-* 🌐 Exploring **Web Development**
-* 📡 Learning **Cisco Networking**
-* 🐧 Working with **Linux**
-* 🔧 Building personal projects
-* 🧠 Improving my problem-solving skills
+- 🌱 I'm currently learning: **📚Technology, programming, and anything new that catches my curiosity.**
+- 💬 Ask me about: **💡 Technology, music, art, and learning new things.**
+- ⚡ Fun fact: **I'm both an artist and a tech enthusiast. 🎨💻🎵**
 
-### 🎯 Interests
+ **<h3 align="left">Skills</h3>**
 
-`Software Development` · `IT` · `Networking` · `Automation` · `Linux` · `Web`
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"></div>
 
-</td>
+ **<h3 align="left">GitHub Stats</h3>**
 
-<td width="40%" align="center">
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Morugogo&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Morugogo&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-<img src="./assets/about.png" width="320" alt="Morugogo">
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Morugogo&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Morugogo&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-</td>
+ **<h3 align="left">Support Me</h3>**
 
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤝 Connect
-
-<br>
-
-<a href="https://github.com/Morugogo">
-<img src="https://skillicons.dev/icons?i=github" width="55">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:">
-<img src="https://skillicons.dev/icons?i=gmail" width="55">
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-### Languages & Web
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js" height="55">
-
-<br><br>
-
-### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase" height="55">
-
-<br><br>
-
-### Networking & Infrastructure
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white">
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center" width="150">
-
-🐍<br> <b>Python</b>
-
-</td>
-
-<td align="center" width="150">
-
-🎓<br> <b>CS50x</b>
-
-</td>
-
-<td align="center" width="150">
-
-🌐<br> <b>Web Development</b>
-
-</td>
-
-<td align="center" width="150">
-
-📡<br> <b>Cisco</b>
-
-</td>
-
-<td align="center" width="150">
-
-🐧<br> <b>Linux</b>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/Morugogo">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Morugogo&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true">
-
-</a>
-
-<a href="https://github.com/Morugogo">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morugogo&layout=compact&hide_border=true&theme=transparent">
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=Morugogo&theme=dark&hide_border=true&background=0D1117">
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Morugogo&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true">
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Projects
-
-<a href="https://github.com/Morugogo?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-<br><br>
-
-<sub>
-More projects will appear here as I continue building and learning.
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ A little more about me
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   💻 Build                                   │
-│   🧠 Learn                                   │
-│   🔧 Experiment                              │
-│   🚀 Improve                                 │
-│                                              │
-│              Repeat.                         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 Thanks for visiting my profile!
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Morugogo&label=Profile%20Views&color=grey&style=flat-square">
-
-<br><br>
-
-**Made with curiosity & ☕ by Morugogo**
-
-</div>
+<p align="left"><a href="https://paypal.me/@ManriqueBaquerizo" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
