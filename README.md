@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Morugogo Banner">
+<img src="./assets/catty.jpeg" width="100%" alt="Morugogo Banner">
 
 <br><br>
 
