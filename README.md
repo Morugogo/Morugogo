@@ -1,6 +1,6 @@
 ![👋 Hi, my name is Morugogo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Morugogo&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](./assets/fb1d7b87-2a6a-479a-8203-d2c837388876.jpg)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
